@@ -1,0 +1,835 @@
+16:25:57 [INFO] Enabled BungeeCord version unknown
+16:25:58 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:25:58 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:25:58 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:25:59 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:25:59 [INFO] Reload complete
+16:25:59 [INFO] Listening on /127.11.0.1:38039
+16:28:21 [INFO] [niko] <-> InitialHandler has connected
+16:28:21 [INFO] Player 'niko' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:28:21 [INFO] Player 'niko' [/127.0.0.1] is using a client at: eaglercraft.ru
+16:28:22 [INFO] [niko] <-> ServerConnector [server] has connected
+16:30:31 [INFO] [niko] -> UpstreamBridge has disconnected
+16:30:31 [INFO] [niko] <-> DownstreamBridge <-> [server] has disconnected
+16:37:24 [SEVERE] Exception in thread "main" 
+16:37:24 [SEVERE] java.io.IOException: Input/output error
+16:37:24 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+16:37:24 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+16:37:24 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+16:37:24 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+16:37:24 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+16:37:24 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+16:37:33 [INFO] Enabled BungeeCord version unknown
+16:37:35 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:37:35 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:37:35 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:37:36 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:37:36 [INFO] Reload complete
+16:37:36 [INFO] Listening on /127.11.0.1:42457
+16:38:47 [INFO] [niko] <-> InitialHandler has connected
+16:38:47 [INFO] Player 'niko' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:38:47 [INFO] Player 'niko' [/127.0.0.1] is using a client at: eaglercraft.ru
+16:38:47 [INFO] [niko] <-> ServerConnector [server] has connected
+16:40:08 [INFO] [niko] -> UpstreamBridge has disconnected
+16:40:08 [INFO] [niko] <-> DownstreamBridge <-> [server] has disconnected
+16:40:13 [SEVERE] Exception in thread "main" 
+16:40:13 [SEVERE] java.io.IOException: Input/output error
+16:40:13 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+16:40:13 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+16:40:13 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+16:40:13 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+16:40:13 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+16:40:13 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+16:40:13 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+16:40:13 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+16:40:13 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2242)
+16:43:49 [INFO] Enabled BungeeCord version unknown
+16:43:51 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:43:51 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:43:52 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:43:53 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:43:53 [INFO] Reload complete
+16:43:53 [INFO] Listening on /127.11.0.1:37749
+16:44:33 [INFO] [niko] <-> InitialHandler has connected
+16:44:33 [INFO] Player 'niko' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:44:33 [INFO] Player 'niko' [/127.0.0.1] is using a client at: eaglercraft.ru
+16:44:34 [INFO] [niko] <-> ServerConnector [server] has connected
+16:44:57 [INFO] [niko] -> UpstreamBridge has disconnected
+16:44:57 [INFO] [niko] <-> DownstreamBridge <-> [server] has disconnected
+16:46:03 [SEVERE] Exception in thread "main" 
+16:46:03 [SEVERE] java.io.IOException: Input/output error
+16:46:03 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+16:46:03 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+16:46:03 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+16:46:03 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+16:46:03 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+16:46:03 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+16:46:03 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+16:46:03 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+16:46:13 [INFO] Enabled BungeeCord version unknown
+16:46:15 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:46:15 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:46:15 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:46:15 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:46:15 [INFO] Reload complete
+16:46:15 [INFO] Listening on /127.11.0.1:40057
+16:47:00 [INFO] [niko] <-> InitialHandler has connected
+16:47:00 [INFO] Player 'niko' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:47:00 [INFO] Player 'niko' [/127.0.0.1] is using a client at: eaglercraft.ru
+16:47:00 [INFO] [niko] <-> ServerConnector [server] has connected
+16:47:41 [INFO] [niko] -> UpstreamBridge has disconnected
+16:47:41 [INFO] [niko] <-> DownstreamBridge <-> [server] has disconnected
+16:49:16 [SEVERE] Exception in thread "main" 
+16:49:16 [SEVERE] java.io.IOException: Input/output error
+16:49:16 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+16:49:16 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+16:49:16 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+16:49:16 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+16:49:16 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+16:49:16 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+16:49:16 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+16:49:16 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+16:49:16 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2242)
+16:49:16 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2162)
+16:49:16 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:231)
+16:49:27 [INFO] Enabled BungeeCord version unknown
+16:49:28 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:49:28 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:49:28 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:49:29 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:49:29 [INFO] Reload complete
+16:49:29 [INFO] Listening on /127.11.0.1:33515
+16:50:10 [INFO] [niko] <-> InitialHandler has connected
+16:50:10 [INFO] Player 'niko' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:50:10 [INFO] Player 'niko' [/127.0.0.1] is using a client at: eaglercraft.ru
+16:50:10 [INFO] [niko] <-> ServerConnector [server] has connected
+16:51:37 [INFO] [niko] -> UpstreamBridge has disconnected
+16:51:37 [INFO] [niko] <-> DownstreamBridge <-> [server] has disconnected
+16:52:49 [SEVERE] Exception in thread "main" 
+16:52:56 [INFO] Enabled BungeeCord version unknown
+16:52:57 [WARNING] Could not load plugin from file plugins/AuthMe.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=website for JavaBean=PluginDescription(name=AuthMe, main=null, version=null, author=darkwarriros,Xephi, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 1, column 1:
+    name: AuthMe
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=website for JavaBean=PluginDescription(name=AuthMe, main=null, version=null, author=darkwarriros,Xephi, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+16:52:57 [WARNING] Could not load plugin from file plugins/InstantLeafDecay.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 1, column 1:
+    name: InstantDecay
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+16:52:58 [WARNING] Could not load plugin from file plugins/Essentials.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=website for JavaBean=PluginDescription(name=Essentials, main=com.earth2me.essentials.Essentials, version=2.11.1, author=null, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 2, column 1:
+    name: Essentials
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=website for JavaBean=PluginDescription(name=Essentials, main=com.earth2me.essentials.Essentials, version=2.11.1, author=null, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+16:52:59 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:52:59 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:52:59 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:53:00 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:53:00 [INFO] Reload complete
+16:53:00 [INFO] Listening on /127.11.0.1:41317
+16:53:51 [INFO] [niko] <-> InitialHandler has connected
+16:53:51 [INFO] Player 'niko' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:53:51 [INFO] Player 'niko' [/127.0.0.1] is using a client at: eaglercraft.ru
+16:53:52 [INFO] [niko] <-> ServerConnector [server] has connected
+16:54:33 [INFO] [niko] -> UpstreamBridge has disconnected
+16:54:33 [INFO] [niko] <-> DownstreamBridge <-> [server] has disconnected
+16:56:18 [SEVERE] Exception in thread "main" 
+16:56:18 [SEVERE] java.io.IOException: Input/output error
+16:56:18 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+16:56:19 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+16:56:19 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+16:56:19 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+16:56:27 [INFO] Enabled BungeeCord version unknown
+16:56:28 [WARNING] Could not load plugin from file plugins/AuthMe.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=website for JavaBean=PluginDescription(name=AuthMe, main=null, version=null, author=darkwarriros,Xephi, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 1, column 1:
+    name: AuthMe
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=website for JavaBean=PluginDescription(name=AuthMe, main=null, version=null, author=darkwarriros,Xephi, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+16:56:28 [WARNING] Could not load plugin from file plugins/InstantLeafDecay.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 1, column 1:
+    name: InstantDecay
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+16:56:29 [WARNING] Could not load plugin from file plugins/Essentials.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=website for JavaBean=PluginDescription(name=Essentials, main=com.earth2me.essentials.Essentials, version=2.11.1, author=null, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 2, column 1:
+    name: Essentials
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=website for JavaBean=PluginDescription(name=Essentials, main=com.earth2me.essentials.Essentials, version=2.11.1, author=null, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+16:56:30 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:56:30 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:56:31 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:56:31 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:56:31 [INFO] Reload complete
+16:56:32 [INFO] Listening on /127.11.0.1:46347
+16:57:19 [INFO] [niko] <-> InitialHandler has connected
+16:57:19 [INFO] Player 'niko' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:57:19 [INFO] Player 'niko' [/127.0.0.1] is using a client at: eaglercraft.ru
+16:57:20 [INFO] [niko] <-> ServerConnector [server] has connected
+16:57:41 [INFO] [niko] -> UpstreamBridge has disconnected
+16:57:41 [INFO] [niko] <-> DownstreamBridge <-> [server] has disconnected
+17:59:10 [INFO] Enabled BungeeCord version unknown
+17:59:11 [WARNING] Could not load plugin from file plugins/AuthMe.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=website for JavaBean=PluginDescription(name=AuthMe, main=null, version=null, author=darkwarriros,Xephi, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 1, column 1:
+    name: AuthMe
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=website for JavaBean=PluginDescription(name=AuthMe, main=null, version=null, author=darkwarriros,Xephi, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+17:59:11 [WARNING] Could not load plugin from file plugins/InstantLeafDecay.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 1, column 1:
+    name: InstantDecay
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+17:59:12 [WARNING] Could not load plugin from file plugins/Essentials.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=website for JavaBean=PluginDescription(name=Essentials, main=com.earth2me.essentials.Essentials, version=2.11.1, author=null, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 2, column 1:
+    name: Essentials
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=website for JavaBean=PluginDescription(name=Essentials, main=com.earth2me.essentials.Essentials, version=2.11.1, author=null, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+17:59:12 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:59:12 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+17:59:12 [INFO] Listening websockets on localhost/127.0.0.1:8082
+17:59:13 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:59:13 [INFO] Reload complete
+17:59:13 [INFO] Listening on /127.11.0.1:46547
+18:00:03 [INFO] [niko] <-> InitialHandler has connected
+18:00:03 [INFO] Player 'niko' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+18:00:03 [INFO] Player 'niko' [/127.0.0.1] is using a client at: eaglercraft.ru
+18:00:03 [INFO] [niko] <-> ServerConnector [server] has connected
+18:00:51 [INFO] [niko] -> UpstreamBridge has disconnected
+18:00:52 [INFO] [niko] <-> DownstreamBridge <-> [server] has disconnected
+01:50:56 [INFO] Enabled BungeeCord version unknown
+01:50:57 [WARNING] Could not load plugin from file plugins/AuthMe.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=website for JavaBean=PluginDescription(name=AuthMe, main=null, version=null, author=darkwarriros,Xephi, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 1, column 1:
+    name: AuthMe
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=website for JavaBean=PluginDescription(name=AuthMe, main=null, version=null, author=darkwarriros,Xephi, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+01:50:57 [WARNING] Could not load plugin from file plugins/InstantLeafDecay.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 1, column 1:
+    name: InstantDecay
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+01:50:58 [WARNING] Could not load plugin from file plugins/Essentials.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=website for JavaBean=PluginDescription(name=Essentials, main=com.earth2me.essentials.Essentials, version=2.11.1, author=null, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 2, column 1:
+    name: Essentials
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=website for JavaBean=PluginDescription(name=Essentials, main=com.earth2me.essentials.Essentials, version=2.11.1, author=null, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+01:50:58 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+01:50:58 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+01:50:58 [INFO] Listening websockets on localhost/127.0.0.1:8082
+01:50:59 [INFO] Server bans.txt changed, it will be reloaded automatically
+01:50:59 [INFO] Reload complete
+01:50:59 [INFO] Listening on /127.11.0.1:33775
+01:51:42 [INFO] [niko] <-> InitialHandler has connected
+01:51:42 [INFO] Player 'niko' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+01:51:42 [INFO] Player 'niko' [/127.0.0.1] is using a client at: wmct.nikogutierrez.repl.co
+01:51:43 [INFO] [niko] <-> ServerConnector [server] has connected
+01:52:11 [INFO] [niko] -> UpstreamBridge has disconnected
+01:52:11 [INFO] [niko] <-> DownstreamBridge <-> [server] has disconnected
+01:55:15 [INFO] [niko] <-> InitialHandler has connected
+01:55:15 [INFO] Player 'niko' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+01:55:15 [INFO] Player 'niko' [/127.0.0.1] is using a client at: wmct.nikogutierrez.repl.co
+01:55:15 [INFO] [niko] <-> ServerConnector [server] has connected
+01:57:02 [INFO] [niko] -> UpstreamBridge has disconnected
+01:57:02 [INFO] [niko] <-> DownstreamBridge <-> [server] has disconnected
+02:05:34 [SEVERE] Exception in thread "main" 
+02:05:34 [SEVERE] java.io.IOException: Input/output error
+02:05:34 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+02:05:34 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+02:05:34 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+02:05:34 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+02:05:34 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+02:05:44 [INFO] Enabled BungeeCord version unknown
+02:05:44 [WARNING] Could not load plugin from file plugins/AuthMe.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=website for JavaBean=PluginDescription(name=AuthMe, main=null, version=null, author=darkwarriros,Xephi, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 1, column 1:
+    name: AuthMe
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=website for JavaBean=PluginDescription(name=AuthMe, main=null, version=null, author=darkwarriros,Xephi, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+02:05:45 [WARNING] Could not load plugin from file plugins/InstantLeafDecay.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 1, column 1:
+    name: InstantDecay
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+02:05:45 [WARNING] Could not load plugin from file plugins/Essentials.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=website for JavaBean=PluginDescription(name=Essentials, main=com.earth2me.essentials.Essentials, version=2.11.1, author=null, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 2, column 1:
+    name: Essentials
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=website for JavaBean=PluginDescription(name=Essentials, main=com.earth2me.essentials.Essentials, version=2.11.1, author=null, depends=[], file=null); Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'website' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+02:05:46 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+02:05:46 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+02:05:46 [INFO] Listening websockets on localhost/127.0.0.1:8082
+02:05:47 [INFO] Server bans.txt changed, it will be reloaded automatically
+02:05:47 [INFO] Reload complete
+02:05:47 [INFO] Listening on /127.11.0.1:43643
+02:08:41 [INFO] §cCommand not found
+02:09:35 [INFO] [nik] <-> InitialHandler has connected
+02:09:35 [INFO] Player 'nik' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+02:09:35 [INFO] Player 'nik' [/127.0.0.1] is using a client at: wmct.nikogutierrez.repl.co
+02:09:35 [INFO] [nik] <-> ServerConnector [server] has connected
+02:12:27 [INFO] [nik] -> UpstreamBridge has disconnected
+02:12:27 [INFO] [nik] <-> DownstreamBridge <-> [server] has disconnected
+02:12:42 [INFO] [nik] <-> InitialHandler has connected
+02:12:42 [INFO] Player 'nik' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+02:12:42 [INFO] Player 'nik' [/127.0.0.1] is using a client at: wmct.nikogutierrez.repl.co
+02:12:42 [INFO] [nik] <-> ServerConnector [server] has connected
+02:13:00 [INFO] [nik] -> UpstreamBridge has disconnected
+02:13:00 [INFO] [nik] <-> DownstreamBridge <-> [server] has disconnected
+02:13:36 [INFO] [nik] <-> InitialHandler has connected
+02:13:36 [INFO] Player 'nik' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+02:13:36 [INFO] Player 'nik' [/127.0.0.1] is using a client at: wmct.nikogutierrez.repl.co
+02:13:36 [INFO] [nik] <-> ServerConnector [server] has connected
+02:14:11 [INFO] [nik] -> UpstreamBridge has disconnected
+02:14:11 [INFO] [nik] <-> DownstreamBridge <-> [server] has disconnected
+02:14:56 [SEVERE] Exception in thread "main" 
+02:14:56 [SEVERE] java.io.IOException: Input/output error
+02:14:56 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+02:14:56 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+02:14:56 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+02:14:56 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+02:14:56 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+02:15:04 [INFO] Enabled BungeeCord version unknown
+02:15:05 [WARNING] Could not load plugin from file plugins/InstantLeafDecay.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 1, column 1:
+    name: InstantDecay
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+02:15:06 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+02:15:06 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+02:15:06 [INFO] Listening websockets on localhost/127.0.0.1:8082
+02:15:07 [INFO] Server bans.txt changed, it will be reloaded automatically
+02:15:07 [INFO] Reload complete
+02:15:07 [INFO] Listening on /127.11.0.1:40679
+02:17:04 [INFO] [nik] <-> InitialHandler has connected
+02:17:04 [INFO] Player 'nik' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+02:17:04 [INFO] Player 'nik' [/127.0.0.1] is using a client at: eaglercraft.ru
+02:17:04 [INFO] [nik] <-> ServerConnector [server] has connected
+02:20:38 [INFO] [niko] <-> InitialHandler has connected
+02:20:38 [INFO] Player 'niko' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+02:20:38 [INFO] Player 'niko' [/127.0.0.1] is using a client at: eaglercraft.ru
+02:20:38 [INFO] [niko] <-> ServerConnector [server] has connected
+02:20:47 [INFO] [nik] -> UpstreamBridge has disconnected
+02:20:47 [INFO] [nik] <-> DownstreamBridge <-> [server] has disconnected
+02:20:50 [INFO] [niko] -> UpstreamBridge has disconnected
+02:20:50 [INFO] [niko] <-> DownstreamBridge <-> [server] has disconnected
+19:14:20 [INFO] Enabled BungeeCord version unknown
+19:14:21 [WARNING] Could not load plugin from file plugins/InstantLeafDecay.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 1, column 1:
+    name: InstantDecay
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+19:14:22 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:14:22 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+19:14:22 [INFO] Listening websockets on localhost/127.0.0.1:8082
+19:14:23 [INFO] Listening on /127.11.0.1:37805
+19:14:24 [INFO] Server bans.txt changed, it will be reloaded automatically
+19:14:24 [INFO] Reload complete
+21:03:36 [INFO] Enabled BungeeCord version unknown
+21:03:37 [WARNING] Could not load plugin from file plugins/InstantLeafDecay.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 1, column 1:
+    name: InstantDecay
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+21:03:39 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:03:39 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+21:03:40 [INFO] Listening websockets on localhost/127.0.0.1:8082
+21:03:41 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:03:41 [INFO] Reload complete
+21:03:41 [INFO] Listening on /127.11.0.1:34987
+01:20:10 [INFO] Enabled BungeeCord version unknown
+01:20:12 [WARNING] Could not load plugin from file plugins/InstantLeafDecay.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 1, column 1:
+    name: InstantDecay
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+01:20:13 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+01:20:13 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+01:20:13 [INFO] Listening websockets on localhost/127.0.0.1:8082
+01:20:14 [INFO] Server bans.txt changed, it will be reloaded automatically
+01:20:14 [INFO] Reload complete
+01:20:14 [INFO] Listening on /127.11.0.1:34839
+00:14:37 [INFO] Enabled BungeeCord version unknown
+00:14:39 [WARNING] Could not load plugin from file plugins/InstantLeafDecay.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 1, column 1:
+    name: InstantDecay
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+00:14:40 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+00:14:40 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+00:14:40 [INFO] Listening websockets on localhost/127.0.0.1:8082
+00:14:41 [INFO] Server bans.txt changed, it will be reloaded automatically
+00:14:41 [INFO] Reload complete
+00:14:42 [INFO] Listening on /127.11.0.1:39919
+16:09:51 [INFO] Enabled BungeeCord version unknown
+16:09:53 [WARNING] Could not load plugin from file plugins/InstantLeafDecay.jar
+Can't construct a java object for tag:yaml.org,2002:net.md_5.bungee.api.plugin.PluginDescription; exception=Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+ in 'reader', line 1, column 1:
+    name: InstantDecay
+    ^
+
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:333)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:182)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.constructDocument(BaseConstructor.java:141)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:127)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:475)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:182)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:242)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: org.yaml.snakeyaml.error.YAMLException: Cannot create property=description for JavaBean=PluginDescription(name=InstantDecay, main=null, version=null, author=null, depends=[], file=null); Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:299)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.construct(Constructor.java:189)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructYamlObject.construct(Constructor.java:331)
+	... 8 more
+Caused by: org.yaml.snakeyaml.error.YAMLException: Unable to find property 'description' on class: net.md_5.bungee.api.plugin.PluginDescription
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:132)
+	at org.yaml.snakeyaml.introspector.PropertyUtils.getProperty(PropertyUtils.java:121)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.getProperty(Constructor.java:308)
+	at org.yaml.snakeyaml.constructor.Constructor$ConstructMapping.constructJavaBean2ndStep(Constructor.java:240)
+	... 10 more
+16:09:53 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:09:53 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:09:53 [INFO] Listening websockets on localhost/127.0.0.1:8082
+16:09:54 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:09:54 [INFO] Reload complete
+16:09:54 [INFO] Listening on /127.11.0.1:34893
+16:12:03 [INFO] [ViggVigg98] <-> InitialHandler has connected
+16:12:03 [INFO] Player 'ViggVigg98' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:12:03 [INFO] Player 'ViggVigg98' [/127.0.0.1] is using a client at: cooleoooo662.github.io
+16:12:03 [INFO] [ViggVigg98] <-> ServerConnector [server] has connected
+16:13:04 [INFO] [ViggVigg98] -> UpstreamBridge has disconnected
+16:13:05 [INFO] [ViggVigg98] <-> DownstreamBridge <-> [server] has disconnected
+16:14:00 [INFO] [Niko] <-> InitialHandler has connected
+16:14:00 [INFO] Player 'Niko' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:14:00 [INFO] Player 'Niko' [/127.0.0.1] is using a client at: cooleoooo662.github.io
+16:14:00 [INFO] [Niko] <-> ServerConnector [server] has connected
+16:16:14 [INFO] [Niko] disconnected with: [Kicked] Server closed
+16:16:14 [INFO] [Niko] <-> DownstreamBridge <-> [server] has disconnected
+16:16:14 [INFO] [Niko] -> UpstreamBridge has disconnected
+16:16:15 [SEVERE] Exception in thread "main" 
+16:16:15 [SEVERE] java.io.IOException: Input/output error
+16:16:15 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+16:16:15 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+16:16:15 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+16:16:15 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+16:16:15 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+16:16:15 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+16:16:15 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+16:16:15 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)

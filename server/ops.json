@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "0749cb21-fe1d-3cd7-8fe4-babbe5fee5fe",
+    "name": "nik",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "94a0ea3a-a4a9-3dc2-8526-d2852ea10bbb",
+    "name": "Niko",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7b8c8e2c-c0a7-37db-8309-9da053e07063",
+    "name": "niko",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  }
+]
